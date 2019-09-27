@@ -10,7 +10,7 @@ use App\State;
 class CityController extends Controller
 {
     /**
-     * Create a new controller instance.
+     * Create a new controller instance
      *
      * @return void
      */
